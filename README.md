@@ -1,2 +1,2 @@
 # pythonQuant
-Tools for Finance
+datascraping tools written in python
